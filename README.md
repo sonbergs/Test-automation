@@ -3,8 +3,7 @@
 This project automates a regression test using Selenide, TestNG, and Allure Report on Java 21. It:
 1. Opens imdb.com
 2. Searches for "QA"
-3. Clicks the first title
-4. Prints 5 members of the top cast section
+3. Prints 5 members of the People section
 
 ## How to run
 - Make sure you have Java 21 and Maven installed.
