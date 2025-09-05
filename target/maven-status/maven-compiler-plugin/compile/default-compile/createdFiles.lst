@@ -1,0 +1,4 @@
+pages/ImdbHomePage.class
+pages/SearchResultsPage.class
+config/TestConfig.class
+pages/BasePage.class
